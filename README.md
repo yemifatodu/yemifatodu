@@ -1,5 +1,5 @@
 -  Hi, I’m YemiFatodu
--  I am a Data Scientist|| Business Data Analyst 
+-  I am a Data Scientist || Business Data Analyst 
 - 💞️ I’m open to collaborating on a data analysis project
 - 📫 How to reach me https://linktr.ee/Yemi_Fatodu
   
