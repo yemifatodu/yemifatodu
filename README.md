@@ -2,10 +2,20 @@
 
 #### Data Scientist || Business Data Analyst
 
-💞️ I’m open to collaborating on a data science and data analysis project.
+I’m open to collaborating on a data science and data analysis' project.
 
-📫 How to reach me: [My Linktree](https://linktr.ee/Yemi_Fatodu)
+🌐 : [My website](https://yemifatodu.github.io)
 
+---
+
+#### 📫 Connect with Me:
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://bit.ly/LI-YEMIFATODU) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://bit.ly/X-YEMIFATODU) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dataanalyst_scientist?igsh=NTc4MTIwNjQ2YQ==) 
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://bit.ly/YEMIFATODU) 
+[![Tableau Badge](https://img.shields.io/badge/Tableau-005C8D?style=flat&logo=tableau&logoColor=white)](https://tabsoft.co/3QUmmCz) 
+[![Medium Badge](https://img.shields.io/badge/Medium-00AB6C?style=flat&logo=medium&logoColor=white)](https://medium.com/@yemifatodu)
+[![Upwork Badge](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013e5a1a04e2af9d1b) 
 ---
 
 #### ⚡ Skills and Tools:
@@ -25,8 +35,3 @@ yemifatodu/yemifatodu is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-
-<!---
-yemifatodu/yemifatodu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
