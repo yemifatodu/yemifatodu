@@ -4,7 +4,7 @@
 
 I’m open to collaborating on a data science and data analysis' project.
 
-🌐 : [My website](https://yemifatodu.github.io)
+🌐 : [My website](https://yemifatodu.online)
 
 ---
 
