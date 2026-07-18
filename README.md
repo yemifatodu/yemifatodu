@@ -32,6 +32,11 @@ Currently building AI-powered SaaS products, analytics platforms, and data-drive
 - **Pandas** ![Pandas Badge](https://img.shields.io/badge/Pandas-Expert-blue?style=flat&logo=pandas)
 - **NumPy** ![NumPy Badge](https://img.shields.io/badge/Numpy-Expert-purple?style=flat&logo=numpy)
 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+...
 ---
 
 <!---
