@@ -1,8 +1,12 @@
-### Hi, I’m Opeyemi Fatodu
+### Hi, I'm Opeyemi Fatodu 
 
-#### Data Scientist || Business Data Analyst
+#### Data Scientist | Machine Learning Engineer | Analytics Engineer | AI Builder
 
-I’m open to collaborating on a data science and data analysis' project.
+I build intelligent products that transform data into real-world solutions using Machine Learning, Analytics, Python, SQL, and Modern Web Technologies.
+
+Currently building AI-powered SaaS products, analytics platforms, and data-driven applications.
+
+🤝 Open to collaborating on Data Science, Machine Learning, AI, Analytics Engineering, and Full-Stack AI projects.
 
 🌐 : [My website](https://yemifatodu.online)
 
